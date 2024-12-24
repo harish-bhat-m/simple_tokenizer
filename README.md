@@ -1,5 +1,4 @@
 # Simple Tokenizer
-# Simple Tokenizer
 This is a simple tokenizer designed in Python Programming Language. Tokenizer
 plays a crucial role in functioning the large language model. The main aim of
 tokenizer is to convert the text into format that models can understand. 

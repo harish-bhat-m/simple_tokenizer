@@ -14,3 +14,6 @@ word, punctuations etc. Then we will encode the word using simple encoding proce
 training data. Once we feed the training data into the tokenizer, out tokenizer is ready
 to encode the given text in defined encoding and decode the text into human-readable form.
 
+As a training data, we are using 'THE VERDICT' book.
+The book can be accessed from the link
+https://public.wsu.edu/~campbelld/wharton/books/verdict.htm
